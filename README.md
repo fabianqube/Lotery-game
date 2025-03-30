@@ -1,2 +1,2 @@
-# Lotrery-game
+# Lottery-game
 Alhoritmika second class miniproject
